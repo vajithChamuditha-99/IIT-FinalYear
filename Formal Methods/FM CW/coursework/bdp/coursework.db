@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<db_xml>
+    <atelierb version="3_7_ubuntu-cvs" />
+    <project decomp_dir="C:\Users\Hp\Desktop\FM CW\coursework\bdp\expand_src" old_decomp_dir="C:\Users\Hp\Desktop\FM CW\coursework\bdp\src">
+        <!-- Definition directory list -->
+        <!-- Proof mechanisms -->
+        <!-- Component file list -->
+        <component_file path="C:/Users/Hp/Desktop/FM CW/coursework" name="Maze" suffix="mch" user="Hp">
+            <component name="Maze" type="specification" />
+        </component_file>
+        <component_file path="C:/Users/Hp/Desktop/FM CW/coursework" name="Robot" suffix="mch" user="Hp">
+            <component name="Robot" type="specification" />
+        </component_file>
+        <component_file path="C:/Users/Hp/Desktop/FM CW/coursework" name="Wall" suffix="mch" user="Hp">
+            <component name="Wall" type="specification" />
+        </component_file>
+    </project>
+</db_xml>

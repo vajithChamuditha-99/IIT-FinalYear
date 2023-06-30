@@ -1,0 +1,7 @@
+digraph {
+Maze [ label=" Maze " shape= box ]
+Robot [ label=" Robot " shape= box ]
+Wall [ label=" Wall " shape= box ]
+
+"Robot" -> "Wall" [style= dotted ]
+}
