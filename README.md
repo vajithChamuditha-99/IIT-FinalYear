@@ -2,7 +2,7 @@
 
 FInal Year Materials
 
-➡ Advanced Analytics
-➡ Concurrent Programming
-➡ Cyber Security
-➡ Formal Methods
+➡ Advanced Analytics <br/>
+➡ Concurrent Programming <br/>
+➡ Cyber Security <br/>
+➡ Formal Methods <br/>
