@@ -1,0 +1,112 @@
+11.55.07.685:[STUDENT]Student 04-Document 1 Requested to Print (4 pages)
+11.55.07.685:[PAPER_TECHNICIAN] Requested to Refill Papers (Attempt 1)
+11.55.07.685:[STUDENT]Student 02-Document 1 Requested to Print (2 pages)
+11.55.07.685:[TONER_TECHNICIAN] Cartridge replacement requested > (Attempt 1)
+11.55.07.685:[STUDENT]Student 03-Document 1 Requested to Print (2 pages)
+11.55.07.685:[STUDENT]Student 01-Document 1 Requested to Print (3 pages)
+11.55.07.687:[PRINTER]Printed Student 04-Document 1
+11.55.07.687:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 6, Toner Level: 46,Documents Printed: 1,No of Toners Replaced: 0]
+11.55.07.687:[PRINTER]Printed Student 03-Document 1
+11.55.07.688:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 4, Toner Level: 44,Documents Printed: 2,No of Toners Replaced: 0]
+11.55.07.688:[PRINTER]Printed Student 01-Document 1
+11.55.07.688:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 1, Toner Level: 41,Documents Printed: 3,No of Toners Replaced: 0]
+11.55.07.688:[PRINTER]Cannot Replace Cartridge Now, Please Wait.. 
+11.55.07.688:[PRINTER]Papers Refilled!
+11.55.07.688:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 51, Toner Level: 41,Documents Printed: 3,No of Toners Replaced: 0]
+11.55.07.689:[PRINTER]Printed Student 02-Document 1
+11.55.07.689:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 49, Toner Level: 39,Documents Printed: 4,No of Toners Replaced: 0]
+11.55.07.689:[PRINTER]Cannot Replace Cartridge Now, Please Wait.. 
+11.55.07.728:[STUDENT]Student 03-Document 2 Requested to Print (7 pages)
+11.55.07.728:[PRINTER]Printed Student 03-Document 2
+11.55.07.728:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 42, Toner Level: 32,Documents Printed: 5,No of Toners Replaced: 0]
+11.55.07.728:[PRINTER]Cannot Replace Cartridge Now, Please Wait.. 
+11.55.07.836:[STUDENT]Student 04-Document 2 Requested to Print (7 pages)
+11.55.07.836:[PRINTER]Printed Student 04-Document 2
+11.55.07.836:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 35, Toner Level: 25,Documents Printed: 6,No of Toners Replaced: 0]
+11.55.07.836:[PRINTER]Cannot Replace Cartridge Now, Please Wait.. 
+11.55.07.947:[STUDENT]Student 02-Document 2 Requested to Print (2 pages)
+11.55.07.947:[PRINTER]Printed Student 02-Document 2
+11.55.07.947:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 33, Toner Level: 23,Documents Printed: 7,No of Toners Replaced: 0]
+11.55.07.947:[PRINTER]Cannot Replace Cartridge Now, Please Wait.. 
+11.55.07.976:[STUDENT]Student 01-Document 2 Requested to Print (7 pages)
+11.55.07.976:[PRINTER]Printed Student 01-Document 2
+11.55.07.976:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 26, Toner Level: 16,Documents Printed: 8,No of Toners Replaced: 0]
+11.55.07.976:[PRINTER]Cannot Replace Cartridge Now, Please Wait.. 
+11.55.08.073:[PAPER_TECHNICIAN] Requested to Refill Papers (Attempt 2)
+11.55.08.073:[PRINTER]Papers Refilled!
+11.55.08.073:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 76, Toner Level: 16,Documents Printed: 8,No of Toners Replaced: 0]
+11.55.08.073:[PRINTER]Cannot Replace Cartridge Now, Please Wait.. 
+11.55.08.166:[STUDENT]Student 03-Document 3 Requested to Print (8 pages)
+11.55.08.166:[PRINTER]Printed Student 03-Document 3
+11.55.08.166:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 68, Toner Level: 8,Documents Printed: 9,No of Toners Replaced: 0]
+11.55.08.166:[PRINTER]Toner Replaced!. 
+11.55.08.166:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 68, Toner Level: 500,Documents Printed: 9,No of Toners Replaced: 1]
+11.55.08.207:[STUDENT]Student 03-Document 4 Requested to Print (7 pages)
+11.55.08.207:[PRINTER]Printed Student 03-Document 4
+11.55.08.207:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 61, Toner Level: 493,Documents Printed: 10,No of Toners Replaced: 1]
+11.55.08.239:[STUDENT]Student 04-Document 3 Requested to Print (8 pages)
+11.55.08.239:[PRINTER]Printed Student 04-Document 3
+11.55.08.239:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 53, Toner Level: 485,Documents Printed: 11,No of Toners Replaced: 1]
+11.55.08.246:[STUDENT]Student 02-Document 3 Requested to Print (6 pages)
+11.55.08.246:[PRINTER]Printed Student 02-Document 3
+11.55.08.246:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 47, Toner Level: 479,Documents Printed: 12,No of Toners Replaced: 1]
+11.55.08.512:[STUDENT]Student 02-Document 4 Requested to Print (2 pages)
+11.55.08.513:[PRINTER]Printed Student 02-Document 4
+11.55.08.513:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 45, Toner Level: 477,Documents Printed: 13,No of Toners Replaced: 1]
+11.55.08.554:[STUDENT]Student 03-Document 5 Requested to Print (4 pages)
+11.55.08.554:[PRINTER]Printed Student 03-Document 5
+11.55.08.554:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 41, Toner Level: 473,Documents Printed: 14,No of Toners Replaced: 1]
+11.55.08.735:[TONER_TECHNICIAN] Cartridge replacement requested > (Attempt 2)
+11.55.08.735:[PRINTER]Cannot Replace Cartridge Now, Please Wait.. 
+11.55.08.757:[STUDENT]Student 02-Document 5 Requested to Print (4 pages)
+11.55.08.757:[PRINTER]Printed Student 02-Document 5
+11.55.08.757:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 37, Toner Level: 469,Documents Printed: 15,No of Toners Replaced: 1]
+11.55.08.757:[PRINTER]Cannot Replace Cartridge Now, Please Wait.. 
+11.55.08.848:[STUDENT]Student 02 Printed All Documents.
+11.55.08.916:[STUDENT]Student 01-Document 3 Requested to Print (8 pages)
+11.55.08.916:[PRINTER]Printed Student 01-Document 3
+11.55.08.917:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 29, Toner Level: 461,Documents Printed: 16,No of Toners Replaced: 1]
+11.55.08.917:[PRINTER]Cannot Replace Cartridge Now, Please Wait.. 
+11.55.08.937:[PAPER_TECHNICIAN] Requested to Refill Papers (Attempt 3)
+11.55.08.937:[PRINTER]Papers Refilled!
+11.55.08.938:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 79, Toner Level: 461,Documents Printed: 16,No of Toners Replaced: 1]
+11.55.08.938:[PRINTER]Cannot Replace Cartridge Now, Please Wait.. 
+11.55.08.961:[STUDENT]Student 03 Printed All Documents.
+11.55.09.075:[STUDENT]Student 04-Document 4 Requested to Print (2 pages)
+11.55.09.075:[PRINTER]Printed Student 04-Document 4
+11.55.09.075:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 77, Toner Level: 459,Documents Printed: 17,No of Toners Replaced: 1]
+11.55.09.075:[PRINTER]Cannot Replace Cartridge Now, Please Wait.. 
+11.55.09.524:[PAPER_TECHNICIAN] Paper replacements count: 17.
+11.55.09.524:[PAPER_TECHNICIAN] Finished the all Attempts
+11.55.09.744:[STUDENT]Student 04-Document 5 Requested to Print (8 pages)
+11.55.09.744:[PRINTER]Printed Student 04-Document 5
+11.55.09.744:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 69, Toner Level: 451,Documents Printed: 18,No of Toners Replaced: 1]
+11.55.09.744:[PRINTER]Cannot Replace Cartridge Now, Please Wait.. 
+11.55.09.789:[STUDENT]Student 01-Document 4 Requested to Print (10 pages)
+11.55.09.789:[PRINTER]Printed Student 01-Document 4
+11.55.09.789:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 59, Toner Level: 441,Documents Printed: 19,No of Toners Replaced: 1]
+11.55.09.789:[PRINTER]Cannot Replace Cartridge Now, Please Wait.. 
+11.55.09.898:[STUDENT]Student 01-Document 5 Requested to Print (2 pages)
+11.55.09.898:[PRINTER]Printed Student 01-Document 5
+11.55.09.898:[PRINTER]Current State of Printer: Laser Printer[ PrinterID: 1, Paper Level: 57, Toner Level: 439,Documents Printed: 20,No of Toners Replaced: 1]
+11.55.09.898:[PRINTER]Cannot Replace Cartridge Now, Please Wait.. 
+11.55.10.201:[STUDENT]Student 01 Printed All Documents.
+11.55.10.587:[STUDENT]Student 04 Printed All Documents.
+11.55.14.899:[PRINTER]All Printing Over! No Need To Replace Toner. 
+11.55.15.371:[TONER_TECHNICIAN] Cartridge replacement requested > (Attempt 3)
+11.55.15.371:[PRINTER]All Printing Over! No Need To Replace Toner. 
+11.55.16.124:[TONER_TECHNICIAN] Cartridge replacements count: 1.
+11.55.16.124:[TONER_TECHNICIAN] Finished the all Attempts.
+
+
+11.55.16.124: All tasks completed. Printing printer status...
+
+==================================================
+                PRINTER SUMMARY                  
+=================================================
+
+Laser Printer[ PrinterID: 1, Paper Level: 57, Toner Level: 439,Documents Printed: 20,No of Toners Replaced: 1]
+
+=================================================
+
+Process finished with exit code 0
